@@ -8,7 +8,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aleksey Sanikovich</h1>
-<h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy, currently working as a php senior developer at <a href="https://www.apalon.com/">Apalon</a></h3>
+<h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy.<br>
+	Currently working as a PHP Senior Developer at <a href="https://www.apalon.com/">Apalon</a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allok" alt="allok" /></a> </p>
 
